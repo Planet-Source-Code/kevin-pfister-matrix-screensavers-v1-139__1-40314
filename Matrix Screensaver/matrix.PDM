@@ -1,0 +1,125 @@
+[Root]
+Most Recent Package=matrixScreen1
+
+
+[Package|matrixScreen1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Kevin\Desktop\matrixsetup
+
+[Package|matrixScreen1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|matrixScreen1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|matrixScreen1|Files Found]
+matrix.ttf=C:\Documents and Settings\Kevin Pfister\Desktop\Programming\DeskTop Source\Matrix Screensaver\matrix.ttf
+
+[Package|matrixScreen1|Files Released]
+
+[Package|matrixScreen1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\SCROBJ.DLL=
+C:\WINDOWS\SYSTEM32\scrobj.dll=
+
+[Package|matrixScreen1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\SCRRUN.DLL=
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+
+[Package|matrixScreen1|Files Added]
+c:\documents and settings\kevin\desktop\programming\desktop source\matrix screensaver\matrix.ttf=
+c:\documents and settings\kevin\desktop\programming\desktop source\matrix screensaver\agent.jpg=
+
+[Package|matrixScreen1|Files Removed]
+
+[Package|matrixScreen1|Files In Project]
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\WINDOWS\SYSTEM32\msvcrt.dll=Yes
+C:\WINDOWS\SYSTEM32\scrobj.dll=Yes
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Documents and Settings\Kevin\Desktop\Matrix.scr=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM32\MSINET.OCX=Yes
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\matrix.ttf=Yes
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\Agent.jpg=Yes
+
+[Package|matrixScreen1|Configure Registry Files]
+Applicable=No
+
+[Package|matrixScreen1|Configure Remote Servers]
+Applicable=No
+
+[Package|matrixScreen1|Install Locations]
+C:\WINDOWS\Desktop\Programming\DeskTop Source\Matrix Screensaver\Matrix.scr=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\SCRRUN.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\SCROBJ.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\Desktop\Programming\DeskTop Source\Matrix Screensaver\matrix.ttf=$(Font)
+C:\WINDOWS\SYSTEM32\Matrix.scr=$(AppPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\scrobj.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\comdlg32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Documents and Settings\Kevin Pfister\Desktop\Programming\DeskTop Source\Matrix Screensaver\matrix.ttf=$(Font)
+C:\Documents and Settings\Kevin Pfister\Desktop\Programming\DeskTop Source\Matrix Screensaver\Matrix.scr=$(WinPath)\System32\
+C:\Documents and Settings\Kevin\Desktop\Matrix.scr=$(WinPath)\system32
+C:\WINDOWS\SYSTEM32\MSINET.OCX=$(WinSysPath)
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\matrix.ttf=$(Font)
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\Agent.jpg=$(AppPath)
+
+[Package|matrixScreen1|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\SYSTEM32\Matrix.scr=No
+C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver\Agent.jpg=No
+
+[Package|matrixScreen1|Distribution]
+Type=multi
+Size=720 KB
+Title=The Matrix Screensaver
+
+[Package|matrixScreen1|Package]
+PackageFolder=C:\Documents and Settings\Kevin\Desktop\matrixsetup
+ProjectFolder=C:\Documents and Settings\Kevin\Desktop\Programming\DeskTop Source\Matrix Screensaver
+ServerSideCab=
+File1=C:\Documents and Settings\Kevin\Desktop\matrixsetup\setup.exe
+File2=C:\Documents and Settings\Kevin\Desktop\matrixsetup\Setup.Lst
+File3=C:\Documents and Settings\Kevin\Desktop\matrixsetup\Matrix1.CAB
+File4=C:\Documents and Settings\Kevin\Desktop\matrixsetup\Matrix2.CAB
+File5=C:\Documents and Settings\Kevin\Desktop\matrixsetup\Matrix3.CAB
+File6=C:\Documents and Settings\Kevin\Desktop\matrixsetup\Matrix4.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
